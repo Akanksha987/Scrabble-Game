@@ -1,1 +1,1 @@
-# Scrabble-Game
+# ca2-scrabblegame
